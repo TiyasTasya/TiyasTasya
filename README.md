@@ -14,6 +14,7 @@
 - 🌱 Currently learning **Laravel, Filament, and JavaScript**
 - 💻 Focused on **Web Development**
 - 🎨 Interested in **UI/UX Design**
+- ⚡ Building admin panels using **Laravel Filament**
 - 📫 Reach me at: **tiyastasya23@gmail.com**
 
 ---
@@ -50,6 +51,10 @@
 
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
+  </a>
+
+  <a href="https://filamentphp.com/" target="_blank">
+    <img src="https://filamentphp.com/favicon.ico" width="48" height="48" alt="filament"/>
   </a>
 
   <a href="https://getbootstrap.com/" target="_blank">
