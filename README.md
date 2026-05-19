@@ -1,19 +1,115 @@
 <h1 align="center">Hi 👋, I'm Tiyas Tasya</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">
+  Fullstack Developer from Indonesia 🇮🇩
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyastasya&label=Profile%20views&color=0e75b6&style=flat" alt="tiyastasya" /> </p>
-
-- 📫 How to reach me **tiyastasya23@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiyastasya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyastasya&show_icons=true&locale=en&layout=compact" alt="tiyastasya" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyastasya&show_icons=true&locale=en" alt="tiyastasya" /></p>
+- 🌱 Currently learning **Laravel, Filament, and JavaScript**
+- 💻 Focused on **Web Development**
+- 🎨 Interested in **UI/UX Design**
+- 📫 Reach me at: **tiyastasya23@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyastasya&" alt="tiyastasya" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/tiyastasya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github"/>
+  </a>
+
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram"/>
+  </a>
+
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="javascript" />
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" alt="php" />
+  </a>
+
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" />
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" />
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
+  </a>
+
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="git" />
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" />
+  </a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyastasya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tiyastasya&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyastasya&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✨ Fun Fact
+
+> "Code, Coffee, and Creativity ☕💻"
+
+---
